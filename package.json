@@ -1,0 +1,26 @@
+{
+  "name": "react-aula02",
+  "version": "1.0.0",
+  "description": "aula 002",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drohiro/React-Aula02.git"
+  },
+  "keywords": [
+    "aula02",
+    "react",
+    "native",
+    "impacta",
+    "projeto"
+  ],
+  "author": "Rodrigo Ferreira (drohiro)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drohiro/React-Aula02/issues"
+  },
+  "homepage": "https://github.com/drohiro/React-Aula02#readme"
+}
