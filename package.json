@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/drohiro/React-Aula02/issues"
   },
-  "homepage": "https://github.com/drohiro/React-Aula02#readme"
+  "homepage": "https://github.com/drohiro/React-Aula02#readme",
+  "dependencies": {
+    "react-router-dom": "^5.1.2"
+  }
 }
